@@ -33,16 +33,17 @@ p {
   width: 100%;
 }
 
+
 #cf2 {
   background-color: #ADE188;
   margin-top: 2%;
   margin-bottom: 2%;
+  margin-left: 0%;
+  margin-right: 0%;
   padding-top: 3%;
   padding-bottom: 3%;
   padding-left: 0%;
   padding-right: 0%;
-  margin-left: 0%;
-  margin-right: 0%;
   width: 100%;
 }
 
@@ -50,5 +51,43 @@ p {
   background-color: lightsalmon;
   color: white;
   align-items: center;
-  position: relative;
-  left: 310px;
+}
+
+.col-imgdos {
+  padding: 0%;
+  width: 100%;
+}
+
+#cf3 {
+  background-color: #ADE188;
+  margin-top: 2%;
+  padding-top: 3%;
+  padding-bottom: 3%;
+  width: 100%;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+}
+
+#panditas {
+  padding-left: 50px;
+
+}
+
+#cf4 {
+  background-color: #ADE188;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  margin-left: 0%;
+  margin-right: 0%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 100%;
+}
+
+
